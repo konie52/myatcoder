@@ -1,0 +1,7 @@
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Document\ProgramCodes\AtCoder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
