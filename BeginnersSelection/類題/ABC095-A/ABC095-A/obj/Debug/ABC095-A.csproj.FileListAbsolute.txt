@@ -1,0 +1,2 @@
+/Users/konishiYoutarou/ドキュメント/ Programing/BeginnersSelection/類題/ABC095-A/ABC095-A/obj/Debug/ABC095-A.csprojAssemblyReference.cache
+/Users/konishiYoutarou/ドキュメント/ Programing/BeginnersSelection/類題/ABC095-A/ABC095-A/obj/Debug/ABC095-A.csproj.CoreCompileInputs.cache
